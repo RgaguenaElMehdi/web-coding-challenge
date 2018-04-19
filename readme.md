@@ -21,13 +21,7 @@ One Paragraph of project description goes here
 - As a User, I can display the list of preferred shops
 - As a User, I can remove a shop from my preferred shops list
 
-## Prerequisites
 
-What things you need to install the software and how to install them
-
-```
-Give examples
-```
 
 ## Installing
 
